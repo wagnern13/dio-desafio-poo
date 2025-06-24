@@ -25,6 +25,6 @@ A classe `iPhone` implementa todas essas funcionalidades.
 
 🖼️ Diagrama UML
 
-<img src="image/diagrama-iPhone.png" width="500"/>
+<img src="src/image/diagrama-iPhone.png" width="500"/>
 
 
